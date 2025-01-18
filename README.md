@@ -58,4 +58,6 @@ date.innerHTML = (today.getDate()<10?"0":"") + today.getDate();
 day.innerHTML = weekDays[today.getDay()];
 month.innerHTML = allMonths[today.getMonth()];
 year.innerHTML = today.getFullYear();
+```
 
+![Image](https://github.com/user-attachments/assets/9d1225c1-4c78-4382-8841-9c26858a4189)
