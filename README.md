@@ -1,7 +1,8 @@
 # 📅 Mini Calendar Using JavaScript
 
 A sleek and minimalist **mini calendar application** that dynamically displays the current date, day, month, and year using JavaScript. This project is perfect for learning and showcasing real-time date manipulation and formatting.
-
+---
+![Image](https://github.com/user-attachments/assets/3b8d04af-8899-48a9-a8d4-e0c428e017b3)
 ---
 
 ## Features
